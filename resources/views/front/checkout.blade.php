@@ -156,22 +156,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</div>							
 							</div>
 							
-							<div class="col1">
-								<div class="h_nav">
-									<h4>Popular Brands</h4>
-									<ul>
-										<li><a href="products.html">Levis</a></li>
-										<li><a href="products.html">Persol</a></li>
-										<li><a href="products.html">Nike</a></li>
-										<li><a href="products.html">Edwin</a></li>
-										<li><a href="products.html">New Balance</a></li>
-										<li><a href="products.html">Jack & Jones</a></li>
-										<li><a href="products.html">Paul Smith</a></li>
-										<li><a href="products.html">Ray-Ban</a></li>
-										<li><a href="products.html">Wood Wood</a></li>
-									</ul>	
-								</div>												
-							</div>
+					
 						  </div>
 						</div>
 			    </li>
